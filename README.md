@@ -37,10 +37,3 @@
 </div>
 
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Felipenbdev/Felipenbdev/output/snake.svg" alt="Snake animation" />
-
-###
